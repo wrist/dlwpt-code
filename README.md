@@ -1,5 +1,7 @@
 # Deep Learning with PyTorch
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrist/dlwpt-code/master?urlpath=lab)
+
 This repository contains code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann, published by Manning Publications.
 
 ![Image of the cover for Deep Learning with PyTorch](data/Stevens-DLPy-HI.png)
