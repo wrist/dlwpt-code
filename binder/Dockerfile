@@ -1,5 +1,13 @@
 FROM jupyter/scipy-notebook:latest
 
+RUN pip install torch torchvision
+
+ARG NB_USER=jovyan
+ARG NB_UID=1000
+ENV USER ${NB_USER}
+ENV NB_UID ${NB_UID}
+ENV HOME /home/${NB_USER}
+
 COPY . ${HOME}
 
 USER root
