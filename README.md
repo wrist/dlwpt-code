@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrist/dlwpt-code/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrist/dlwpt-code/launch_binder?urlpath=lab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wrist/dlwpt-code/blob/master)
 
 This repository contains code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann, published by Manning Publications.
