@@ -1,6 +1,6 @@
 FROM jupyter/scipy-notebook:latest
 
-RUN pip install -r requirements.txt
+RUN pip install -r ../requirements.txt
 RUN pip torchvision
 
 ARG NB_USER=jovyan
