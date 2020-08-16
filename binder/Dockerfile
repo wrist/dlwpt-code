@@ -1,6 +1,7 @@
 FROM jupyter/scipy-notebook:latest
 
-RUN pip install torch torchvision
+RUN pip install -r requirements.txt
+RUN pip torchvision
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
