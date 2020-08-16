@@ -7,3 +7,5 @@ SimpleITK
 tensorflow>=1.14,<2
 torch
 torchvision
+tensorboard
+jupyter-server-proxy
