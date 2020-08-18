@@ -1,0 +1,16 @@
+# exists in original(repository's root) requirements.txt
+blosc>=1.8.1,<2
+diskcache==4.1.0
+h5py
+Pillow
+scikit-image>=0.15.0
+SimpleITK
+
+# added or modified from original requirements.txt
+tensorflow==2.3.0
+numpy==1.18
+scipy==1.4.1
+torch
+torchvision
+tensorboard
+jupyter-server-proxy
