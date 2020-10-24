@@ -13,4 +13,5 @@ scipy==1.4.1
 torch
 torchvision
 tensorboard
+jupyter-tensorboard
 jupyter-server-proxy
